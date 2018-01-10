@@ -59,3 +59,9 @@ GRTAGS
 # third deps
 pcre/
 zlib/
+
+# Makefile
+Makefile
+
+# objs
+objs/
