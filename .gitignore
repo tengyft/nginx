@@ -55,3 +55,7 @@ dkms.conf
 GTAGS
 GPATH
 GRTAGS
+
+# third deps
+pcre/
+zlib/
