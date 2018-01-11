@@ -68,3 +68,6 @@ objs/
 
 # kdevelop
 *.kdev4
+
+# prefix
+prefix/
